@@ -29,6 +29,11 @@
 
 }
 
+.codigo, .turno{
+	width: 50%;
+	height: 30%;
+}
+
 ul li.opciones{
 	list-style-type: none;
 
