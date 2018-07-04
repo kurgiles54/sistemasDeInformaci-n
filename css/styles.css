@@ -2,8 +2,8 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 60%;
-	height: 40%;
+	width: 50%;
+	height: 35%;
 
 }
 
@@ -14,4 +14,10 @@
 	margin-right: auto;
 	border-radius: 50%;
 	border: 2px solid black;
+}
+
+.redes:hover{
+	border: 2px solid white;
+	transform: scale(1.2);
+	border-radius: 50%;
 }
