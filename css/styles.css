@@ -7,6 +7,10 @@
 
 }
 
+.mensajeInicial{
+	font-family: 'Libre Franklin', sans-serif;
+}
+
 .afiliaciones{
 	width: 45%;
 	display: block;
